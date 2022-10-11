@@ -1,4 +1,4 @@
-const favoriteCards = [
+let favoriteCards = [
   {
     name: 'Ancestor\'s Chosen',
     manaCost: '{5}{W}{W}',
